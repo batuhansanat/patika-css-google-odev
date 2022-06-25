@@ -1,0 +1,83 @@
+
+ 
+.container{
+    width: 90%;
+    margin: auto;
+}
+.logo-img img{
+    margin: 0 auto;
+    display: block;
+}
+
+/* ####### Arama bölümü ####### */
+
+.search-box{
+    width: auto;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+}
+
+.form-center{
+    width: 300px;
+    margin:0 auto;
+}
+
+.btn{
+    margin: 0 auto;
+}
+
+.search-box p{
+    text-align: center;
+    margin:0;
+}
+
+.search-box input{
+    width: 317px;
+    height: 15px;
+    margin: 0 auto;
+}
+
+/* ####### Arama Bölümü Altı ####### */
+
+.box1{
+    background-color: #7EE5DA;
+    width: 35%;
+}
+
+.box2{
+    background-color: #70CCC2;
+    width: 20%;
+    text-align: center;
+}
+
+.box2 p{
+    margin: 0px;
+    text-align: center;
+    font-size: 11px;
+}
+
+.box3{
+    background-color: #62B3AA;
+    width: 42%;
+    text-align: center;
+}
+
+.box3 p{
+    margin: 0px;
+    text-align: center;
+    font-size: 11px;
+}
+
+.box{
+    padding: 5px;
+    margin:1px 1px 1px 1px;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.box p{
+    margin: 5px;
+    padding: 1px;
+    text-align: center;
+}
